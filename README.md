@@ -19,7 +19,7 @@ StudySphere follows a client-server architecture with three main components: fro
 
 The StudySphere front end is developed with ReactJS, utilizing Figma for design. It includes pages for students, instructors, and potential future administrative functions. The front end incorporates ReactJS, CSS, Tailwind, Redux for state management, and VSCode as the development environment.
 
-### [Figma Design](https://www.figma.com/file/Mikd0FjHKAofUlWQSi70nf/StudySphere_shared)
+### [Figma Design]()
 
 - For Students: Homepage, Course List, Wishlist, Cart Checkout, Course Content, User Details, User Edit Details.
 - For Instructors: Dashboard, Insights, Course Management Pages, View and Edit Profile Details.
